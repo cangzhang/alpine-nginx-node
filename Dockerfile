@@ -1,5 +1,6 @@
 FROM node:10-alpine
 
+#credits: https://github.com/nginxinc/docker-nginx
 ENV NGINX_VERSION 1.16.1
 ENV NJS_VERSION   0.3.5
 ENV PKG_RELEASE   1
